@@ -1,0 +1,8 @@
+mkdir notebooks scripts assets assets/intro_outro assets/images
+touch notebooks/01_podcast_script_generation.ipynb
+touch notebooks/02_audio_generation.ipynb
+touch notebooks/03_publishing_automation.ipynb
+touch scripts/config.py
+touch scripts/podcast_generator.py
+touch scripts/upload_manager.py
+touch requirements.txt
