@@ -1,0 +1,14 @@
+transformers>=4.30.0
+torch>=2.0.0
+accelerate
+bitsandbytes
+gTTS
+pydub
+librosa
+soundfile
+feedgen
+requests
+python-dotenv
+python-magic
+pathlib
+datetime
